@@ -18,10 +18,10 @@ Only the Stems and Sampler pad modes are remapped. Hot Cue and Beat Loop stay ex
 
 | Pad Mode              | Original (stock)         | This map        |
 | --------------------- | ------------------------ | --------------- |
-| Hot Cue               | **HOT CUE**              | **HOT CUE**     |
-| Beat Loop & Beat Jump | **BEAT LOOP**            | **BEAT LOOP**   |
-| Serato Stems          | **SHIFT + BEAT LOOP**    | **SLIP LOOP**   |
-| Sampler               | **SHIFT + BEAT JUMP**    | **BEAT JUMP**   |
+| Hot Cue               | [HOT CUE]                | [HOT CUE]       |
+| Beat Loop & Beat Jump | [BEAT LOOP]              | [BEAT LOOP]     |
+| Serato Stems          | [SHIFT + BEAT LOOP]      | [SLIP LOOP]     |
+| Sampler               | [SHIFT + BEAT JUMP]      | [BEAT JUMP]     |
 
 ## Requirements
 
