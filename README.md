@@ -1,5 +1,7 @@
 # XDJ-AZ Quick Mixing: Stems & Sampler MIDI Map for Serato DJ Pro
 
+_by IG:@papazxk / TikTok:@papazxk_
+
 A custom Serato DJ Pro MIDI XML mapping for the **AlphaTheta XDJ-AZ** that gives you direct access to **Stems** and **Sampler** pad modes, with no **SHIFT** required. It brings the XDJ-AZ closer to the workflow of the XDJ-XZ, XDJ-RX3, DJM-S11 and similar gear.
 
 ## Features
