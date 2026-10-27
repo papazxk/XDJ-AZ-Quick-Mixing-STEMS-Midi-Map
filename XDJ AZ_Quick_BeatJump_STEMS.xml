@@ -1,0 +1,482 @@
+<midi app=" 4.0.7.240">
+    <control channel="7" event_type="Note On" control="9">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="0" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+        <userio event="output">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="0" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="109"/>
+                    <alias name="off" value="43"/>
+                </translation>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="6" event_type="Note On" control="9">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="0" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+        <userio event="output">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="0" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="109"/>
+                    <alias name="off" value="43"/>
+                </translation>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="11" event_type="Note On" control="66">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="7" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+        <userio event="output">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="7" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="109"/>
+                    <alias name="off" value="43"/>
+                </translation>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="11" event_type="Note On" control="28">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="5" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+        <userio event="output">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="5" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="109"/>
+                    <alias name="off" value="43"/>
+                </translation>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="11" event_type="Note On" control="9">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="4" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+        <userio event="output">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="4" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="109"/>
+                    <alias name="off" value="43"/>
+                </translation>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="7" event_type="Note On" control="66">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="3" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+        <userio event="output">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="3" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="109"/>
+                    <alias name="off" value="43"/>
+                </translation>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="7" event_type="Note On" control="47">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="2" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+        <userio event="output">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="2" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="109"/>
+                    <alias name="off" value="43"/>
+                </translation>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="10" event_type="Note On" control="66">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="7" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+        <userio event="output">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="7" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="109"/>
+                    <alias name="off" value="43"/>
+                </translation>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="10" event_type="Note On" control="47">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="6" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+        <userio event="output">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="6" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="109"/>
+                    <alias name="off" value="43"/>
+                </translation>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="10" event_type="Note On" control="28">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="5" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+        <userio event="output">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="5" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="109"/>
+                    <alias name="off" value="43"/>
+                </translation>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="6" event_type="Note On" control="47">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="2" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+        <userio event="output">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="2" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="109"/>
+                    <alias name="off" value="43"/>
+                </translation>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="6" event_type="Note On" control="28">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="1" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+        <userio event="output">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="1" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="109"/>
+                    <alias name="off" value="43"/>
+                </translation>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="11" event_type="Note On" control="59">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="1" slot_id="3">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="1" slot_id="3">
+                <translation action_on="any">
+                    <alias name="on" value="13"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="11" event_type="Note On" control="40">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="1" slot_id="2">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="1" slot_id="2">
+                <translation action_on="any">
+                    <alias name="on" value="13"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="11" event_type="Note On" control="21">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="1" slot_id="1">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="1" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="13"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="11" event_type="Note On" control="2">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="13"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="7" event_type="Note On" control="59">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="1" slot_id="3">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="1" slot_id="3">
+                <translation action_on="any">
+                    <alias name="on" value="13"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="7" event_type="Note On" control="2">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="1" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="13"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="10" event_type="Note On" control="40">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="0" slot_id="2">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="0" slot_id="2">
+                <translation action_on="any">
+                    <alias name="on" value="13"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="10" event_type="Note On" control="21">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="0" slot_id="1">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="0" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="13"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="6" event_type="Note On" control="59">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="0" slot_id="3">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="0" slot_id="3">
+                <translation action_on="any">
+                    <alias name="on" value="13"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="6" event_type="Note On" control="40">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="0" slot_id="2">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="0" slot_id="2">
+                <translation action_on="any">
+                    <alias name="on" value="13"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="6" event_type="Note On" control="2">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="13"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="10" event_type="Note On" control="59">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="0" slot_id="3">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="0" slot_id="3">
+                <translation action_on="any">
+                    <alias name="on" value="13"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="11" event_type="Note On" control="47">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="6" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+        <userio event="output">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="6" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="109"/>
+                    <alias name="off" value="43"/>
+                </translation>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="7" event_type="Note On" control="21">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="1" slot_id="1">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="1" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="13"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="6" event_type="Note On" control="66">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="3" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+        <userio event="output">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="3" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="109"/>
+                    <alias name="off" value="43"/>
+                </translation>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="10" event_type="Note On" control="2">
+        <userio event="click">
+            <codfather_fx deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_fx>
+        </userio>
+        <userio event="output">
+            <codfather_fx deck_set="Default" deck_id="0" slot_id="0">
+                <translation action_on="any">
+                    <alias name="on" value="13"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_fx>
+        </userio>
+    </control>
+    <control channel="7" event_type="Note On" control="28">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="1" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+        <userio event="output">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="1" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="109"/>
+                    <alias name="off" value="43"/>
+                </translation>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="6" event_type="Note On" control="21">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="0" slot_id="1">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="0" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="13"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+    <control channel="10" event_type="Note On" control="9">
+        <userio event="click">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="4" slot_id="0">
+                <translation action_on="any" behaviour="explicit"/>
+            </sample_player_slot_play>
+        </userio>
+        <userio event="output">
+            <sample_player_slot_play deck_set="Sample Player" deck_id="4" slot_id="1">
+                <translation action_on="any">
+                    <alias name="on" value="109"/>
+                    <alias name="off" value="43"/>
+                </translation>
+            </sample_player_slot_play>
+        </userio>
+    </control>
+    <control channel="7" event_type="Note On" control="40">
+        <userio event="click">
+            <codfather_st deck_set="Default" deck_id="1" slot_id="2">
+                <translation action_on="press" behaviour="toggle"/>
+            </codfather_st>
+        </userio>
+        <userio event="output">
+            <codfather_st deck_set="Default" deck_id="1" slot_id="2">
+                <translation action_on="any">
+                    <alias name="on" value="13"/>
+                    <alias name="off" value="0"/>
+                </translation>
+            </codfather_st>
+        </userio>
+    </control>
+</midi>
